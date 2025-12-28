@@ -26,13 +26,9 @@ I am actively seeking collaborators for projects in **digital rock physics**, **
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- JAX & Flax logos using raw images -->
-<a href="https://github.com/google/jax">
-  <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" width="80" style="margin:4px;" />
-</a>
-<a href="https://github.com/google/flax">
-  <img src="https://raw.githubusercontent.com/google/flax/main/images/flax_logo_250px.png" width="80" style="margin:4px;" />
-</a>
+<!-- JAX & Flax badges with icons and names -->
+![JAX](https://img.shields.io/badge/JAX-61DAFB?style=for-the-badge&logo=https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png&logoColor=white)
+![Flax](https://img.shields.io/badge/Flax-097D6C?style=for-the-badge&logo=https://raw.githubusercontent.com/google/flax/main/images/flax_logo_250px.png&logoColor=white)
 
 ---
 
