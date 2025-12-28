@@ -26,10 +26,6 @@ I am actively seeking collaborators for projects in **digital rock physics**, **
 ![JAX](https://img.shields.io/badge/JAX-%2361DAFB.svg?style=for-the-badge&logo=JAX&logoColor=black)
 ![Flax](https://img.shields.io/badge/Flax-%23097D6C.svg?style=for-the-badge&logo=Flax&logoColor=white)
 
-# 📂 Featured Projects:
-- **[3D Digital Rock Physics GAN](https://github.com/yourusername/repo)**: A deep learning model for simulating porous media with **JAX** and **Flax**.
-- **[Flax-based 3D CNN](https://github.com/yourusername/repo)**: An exploration of convolutional networks in **Flax** for volume segmentation.
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MhmdEsml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MhmdEsml&theme=dark&hide_border=false)<br/>
