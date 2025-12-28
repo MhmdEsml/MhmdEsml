@@ -26,11 +26,6 @@ I am actively seeking collaborators for projects in **digital rock physics**, **
 ![JAX](https://img.shields.io/badge/JAX-%2361DAFB.svg?style=for-the-badge&logo=JAX&logoColor=black)
 ![Flax](https://img.shields.io/badge/Flax-%23097D6C.svg?style=for-the-badge&logo=Flax&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MhmdEsml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MhmdEsml&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdEsml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MhmdEsml&icon=0&color=0)](https://visitcount.itsvg.in)
