@@ -23,8 +23,8 @@ I am actively seeking collaborators for projects in **digital rock physics**, **
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-%2361DAFB.svg?style=for-the-badge&logo=JAX&logoColor=black)
-![Flax](https://img.shields.io/badge/Flax-%23097D6C.svg?style=for-the-badge&logo=Flax&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flax](https://img.shields.io/badge/Flax-%23097D6C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
