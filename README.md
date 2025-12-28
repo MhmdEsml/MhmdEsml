@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a passionate researcher working on the application of **3D deep learning models** for **digital rock physics**. Currently, I am exploring advanced neural network architectures to simulate and analyze **porous media**, with a focus on leveraging **JAX** and **Flax** for scalable, efficient model training. I am open to collaboration and discussions on these topics—feel free to reach out if you're interested in contributing to this exciting field!
+I am a passionate researcher working on the application of **3D deep learning models** for **digital rock physics**. Currently, I am exploring advanced neural network architectures to simulate and analyze **porous media**, with a focus on leveraging **JAX** and **Flax** or **PyTorch** for scalable, efficient model training. I am open to collaboration and discussions on these topics—feel free to reach out if you're interested in contributing to this exciting field!
 
 ## 🤝 Let's Collaborate!
-I am actively seeking collaborators for projects in **digital rock physics**, **deep learning**, and **JAX/Flax**. If you're working on something similar or would like to discuss ideas, please reach out!
+I am actively seeking collaborators for projects in **digital rock physics** and **deep learning**. If you're working on something similar or would like to discuss ideas, please reach out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadesmaeili) 
@@ -26,5 +26,3 @@ I am actively seeking collaborators for projects in **digital rock physics**, **
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![](https://visitcount.itsvg.in/api?id=MhmdEsml&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
