@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a passionate researcher working on the application of **3D deep learning models** for **digital rock physics**. Currently, I am exploring advanced neural network architectures to simulate and analyze **porous media**, with a focus on leveraging **JAX** and **Flax** or **PyTorch** for scalable, efficient model training. I am open to collaboration and discussions on these topics—feel free to reach out if you're interested in contributing to this exciting field!
 
-## 🤝 Let's Collaborate!
-I am actively seeking collaborators for projects in **digital rock physics** and **deep learning**. If you're working on something similar or would like to discuss ideas, please reach out!
+%## 🤝 Let's Collaborate!
+%I am actively seeking collaborators for projects in **digital rock physics** and **deep learning**. If you're working on something similar or would like to discuss ideas, please reach out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadesmaeili) 
